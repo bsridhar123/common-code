@@ -1,2 +1,2 @@
 org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
-com.demo.autoconfigure.ServiceRegistryConfiguration,com.demo.autoconfigure.CustomCacheConfiguration
+com.demo.autoconfigure.CustomCacheConfig
